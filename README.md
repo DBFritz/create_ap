@@ -8,6 +8,7 @@
 * Choose the AP Gateway IP (only for 'NATed' and 'None' Internet sharing methods).
 * You can create an AP with the same interface you are getting your Internet connection.
 * You can pass your SSID and password through pipe or through arguments (see examples).
+* You can assign multiples IPs giving the MAC address
 
 
 ## Dependencies
